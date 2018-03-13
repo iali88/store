@@ -1,0 +1,50 @@
+.no-padding {
+    padding-right:0;
+    padding-left:0;
+}
+
+.container-wrapper {
+	height: 80%;
+	margin: auto;
+	margin-top: 80px;
+	margin-bottom: 300px
+}
+
+.accueil-image {
+	display: block;
+	width: 100% !important;
+	height: auto !important;
+}
+
+.table {
+	table-layout: fixed;
+	overflow : auto;
+}
+
+.table th {
+	text-align : center;
+}
+
+.table td {
+	text-align : center; 
+	background : whitesmoke; 
+}
+
+.login {
+    text-align: center;
+}
+
+.login-container {
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.msg {
+	color : green;
+}
+
+
+footer {
+	margin-top : 200px;
+}
