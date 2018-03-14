@@ -13,16 +13,16 @@ Instructions :
 2. Importer le projet dans son workspace
 
 3. Dans les propriétés du projet, configurer "Project Facets" comme suit : 
-![alt text](https://github.com/iali88/store.git/install-screen/project_Facets.png)
+![alt text](./install-screen/project_Facets.png)
 
 4. Configurer le répertoire de déploiement de Tomcat vers 
 	<chemin du workspace>/store/src/main/webapp
 
-![alt text](https://github.com/iali88/store.git/install-screen/tomcat.png)
+![alt text](./install-screen/tomcat.png)
 
 5. Dans les propriétés du projet, configurer "Deployment Assembly" comme suit :
 
-![alt text](https://github.com/iali88/store.git/install-screen/Deplyment_Assembly.png)
+![alt text](./Deplyment_Assembly.png)
 
 Il faudra ajouter "Maven Dependencies" : add -> Java Build Path Entries -> Maven Dependencies 
 et le dossier de deploiement :           add-> folder -> src/main/webapp 
