@@ -22,7 +22,7 @@ Instructions :
 
 5. Dans les propriétés du projet, configurer "Deployment Assembly" comme suit :
 
- ![alt text](./DeploymentAssembly.png)
+![alt text](./install-screen/DeploymentAssembly.png)
 
 Il faudra ajouter "Maven Dependencies" : add -> Java Build Path Entries -> Maven Dependencies 
 et le dossier de deploiement :           add-> folder -> src/main/webapp 
